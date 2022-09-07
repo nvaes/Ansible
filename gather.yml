@@ -1,0 +1,5 @@
+---
+- name: Gathering the facts
+  hosts: all
+  gather_facts: true
+  task:
